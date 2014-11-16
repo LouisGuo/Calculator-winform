@@ -16,6 +16,8 @@ namespace Calculator
         public Calculator()
         {
             InitializeComponent();
+
+            //from amazing tools iPad Air 2
         }
 
         public int count=0;//统计位数
